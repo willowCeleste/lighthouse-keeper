@@ -1,0 +1,19 @@
+{
+  "name": "lighthouse",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lighthouse": "node index.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-launcher": "^0.15.2",
+    "csv-parse": "^5.3.9",
+    "lighthouse": "^10.1.1",
+    "slugify": "^1.6.6"
+  }
+}
