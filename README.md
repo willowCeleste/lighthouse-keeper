@@ -1,4 +1,4 @@
-# Untitled Lighthouse Thing
+# Lighthouse Keeper
 
 This is, at the moment, a tiny command line tool for generating Lighthouse HTML reports. It takes a CSV of URLs and generates a folder of Lighthouse reporst for those URLs in a given directory.
 
